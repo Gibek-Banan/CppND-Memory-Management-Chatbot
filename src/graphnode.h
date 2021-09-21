@@ -55,7 +55,7 @@ public:
     ////
 
     //void MoveChatbotHere(ChatBot *chatbot);
-    void MoveChatbotHere(ChatBot &&chatbot);
+    void MoveChatbotHere(ChatBot chatbot);
 
 
     ////
